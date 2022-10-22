@@ -2,7 +2,7 @@
 - 👀 I'm interested in backend developement
 - 🌱 I'm currently learning AWS
 - 💞️ I'm looking to collaborate on bigger projects & to learn new things everyday !
-- 📫 How to reach me {email : "mohamedbakadir97@gmail.com", tel : "+212 6 17 44 50 63", linkedin : "in/simobkr}
+- 📫 How to reach me {email : "mohamedbakadir97@gmail.com", tel : "+212 6 17 44 50 63", linkedin : "in/mohamed-bakadir}
 
 <!---
 MohamedBakadir/MohamedBakadir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
