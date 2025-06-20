@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @MohamedBakadir
 - 👀 I'm interested in backend developement
-- 🌱 I'm currently learning AWS
+- 🌱 I'm currently learning MCP Using JAVA
 - 💞️ I'm looking to collaborate on bigger projects & to learn new things everyday !
 - 📫 How to reach me {email : "mohamedbakadir97@gmail.com", linkedin : "in/mohamed-bakadir}
 
